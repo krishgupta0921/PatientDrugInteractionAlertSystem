@@ -29,3 +29,19 @@ Create a Command Line Interface (CLI) helper that:
 - **CO3:** Use arrays/functions for pairwise scanning and reporting
 - **CO4:** Use pointers/dynamic memory for drug database maintenance
 - **CO5:** Implement a practical clinical decision support tool
+
+## <ins> Contributions by the Team Members </ins>
+- **PARI SRIVASTAVA-** Creation and pushing of the following header and the source files:
+* <Alternative_suggestion.h>
+* <Alternative_suggestion.c>
+
+- **ANMOL KUMAR-** Creation and pushing of the following header and the source files:
+* <Interaction_check.h>
+* <Interaction.c>
+
+- **KRISH GUPTA-** Creation and pushing of the following header and the source files:
+* <Drug_database.h>
+* <Drug_database.c><br>
+Including the:
+* <main.c>
+* <README.md>
