@@ -32,8 +32,8 @@ Create a Command Line Interface (CLI) helper that:
 
 ## <ins> Contributions by the Team Members </ins>
 - **PARI SRIVASTAVA-** Creation and pushing of the following header and the source files:
-* <Alternative_suggestion.h>
-* <Alternative_suggestion.c>
+* <a href ="alternative_suggestion.h"ALTERNATIVE_SUGGESTION_HEADER></a>
+* <a href="alternative_suggestion.c"ALTERNATIVE_SUGGESTION_SOURCE></a>
 
 - **ANMOL KUMAR-** Creation and pushing of the following header and the source files:
 * <Interaction_check.h>
@@ -43,5 +43,5 @@ Create a Command Line Interface (CLI) helper that:
 * <Drug_database.h>
 * <Drug_database.c><br>
 Including the:
-* <main.c>
+<a href="main.c">MAIN_SOURCE_FILE></a>
 * <README.md>
