@@ -32,16 +32,15 @@ Create a Command Line Interface (CLI) helper that:
 
 ## <ins> Contributions by the Team Members </ins>
 - **PARI SRIVASTAVA-** Creation and pushing of the following header and the source files:
-* <a href ="alternative_suggestion.h"ALTERNATIVE_SUGGESTION_HEADER></a>
-* <a href="alternative_suggestion.c"ALTERNATIVE_SUGGESTION_SOURCE></a>
+* <a href="alternative_suggestion.h">ALTERNATIVE_SUGGESTION_HEADER</a>
+* <a href="alternative_suggestion.c">ALTERNATIVE_SUGGESTION_SOURCE</a>
 
 - **ANMOL KUMAR-** Creation and pushing of the following header and the source files:
-* <Interaction_check.h>
-* <Interaction_check.c>
+* <a href ="interaction_check.h">INTERACTION_CHECK_HEADER</a>
+* <a href ="interaction_check.c">INTERACTION_CHECK_SOURCE</a>
 
 - **KRISH GUPTA-** Creation and pushing of the following header and the source files:
-* <Drug_database.h>
-* <Drug_database.c><br>
-Including the:
-<a href="main.c">MAIN_SOURCE_FILE></a>
-* <README.md>
+* <a href ="drug_database.h">DRUG_DATABASE_HEADER</a>
+* <a href ="drug_database.c">DRUG_DATABASE_SOURCE</a><br>Including the:
+* <a href="main.c">MAIN_SOURCE_FILE</a>
+* <a href="README.md">README_MD</a>
