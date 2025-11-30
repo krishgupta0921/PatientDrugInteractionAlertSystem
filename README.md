@@ -37,7 +37,7 @@ Create a Command Line Interface (CLI) helper that:
 
 - **ANMOL KUMAR-** Creation and pushing of the following header and the source files:
 * <Interaction_check.h>
-* <Interaction.c>
+* <Interaction_check.c>
 
 - **KRISH GUPTA-** Creation and pushing of the following header and the source files:
 * <Drug_database.h>
